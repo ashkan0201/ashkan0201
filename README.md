@@ -34,13 +34,14 @@ Hey! I'm Ashkan, a backend developer and web scraping enthusiast. I love **autom
 
 ## 🎨 Fun & Interests
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
 </div>
-- AI experiments 🤖  
-- Clean UI/UX design 🎨  
-- Exploring new tech stacks 🧠  
+<div align="center">
+  - AI experiments 🤖  
+  - Clean UI/UX design 🎨  
+  - Exploring new tech stacks 🧠  
+</div>
+
 
 ---
 
